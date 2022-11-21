@@ -22,7 +22,7 @@ function dividirDosNumeros(a, b) {
 dividirDosNumeros(6, 3); // 2
 console.log(producto); // undefined ( aca vemos como producto es ”devuelto“)
 
-4-Declaraciones (if): es un ‘Flujo de control“, es el codigo que suministramos, es una forma de que nuestra función verifique si algo es `true`. Por ejemplo: 
+4-Declaraciones (if) : es un ‘Flujo de control“, es el codigo que suministramos, es una forma de que nuestra función verifique si algo es `true`. Por ejemplo: 
 
 ```javascript
 function puedeManejar(edad) {
